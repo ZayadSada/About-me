@@ -1,8 +1,8 @@
-#About me 
+# About me 
 
 Hi there 👋
 
-About me 😊
+**About me** 😊
 I am a Physicist ⚛️, mathematician and computer programming, hobbyist video game developer.
 
 I specialize in Geant4, powerful C++ physics modeling toolkit. 
