@@ -10,8 +10,7 @@ I specialize in **Geant4** powerful,
 **C++** physics modeling toolkit. 
 
 # My skills. 
-[![My Skills](https://skillicons.dev/icons?i=cpp,rust,py,ts,js,cs,godot,docker)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,cs,tex,html,c)](https://skillicons.dev)
 My Skills. 
 
 I am a balanced programmer, with many front-end and back-end skills. 
