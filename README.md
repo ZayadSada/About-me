@@ -15,7 +15,7 @@ I am a balanced programmer, with many front-end and back-end skills.
 
 Here are a list of skills linked to repos where I demonstrated them.
 
-C++
+[C++] () 
 
 C#
 
